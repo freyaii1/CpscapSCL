@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">FPS</div>
-                            <p>{{ level.fps }}</p>
+                            <p>{{ level.fps || 'Any' }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">Cps Cap</div>

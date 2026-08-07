@@ -104,7 +104,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -113,10 +113,13 @@ export default {
                         Your clicks must be audible they also must be source clicks (No edited clicks allowed)
                     </p>
                     <p>
+                        Completions with noclip must be completed with no deaths and 100% accuracy (obviously)
+                    </p>
+                    <p>
                         You must show at least 1 attempt before the completion you cannot just show the completion straight away
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Completions must show the endscreen if the clip ends before the
                     </p>
                     <p>
                         Do not use secret routes or bug routes

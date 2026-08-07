@@ -1,27 +1,23 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Sodavortex",
+        "link": "https://www.youtube.com/@sodavortex276"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Daniel",
+        "link": "https://www.youtube.com/@georgedanielstaicu8575"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+         "role": "admin",
+        "name": "pixelfactorial",
+        "link": "https://www.youtube.com/@georgedanielstaicu8575"
+   
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "freyaii",
+        "link": "https://guns.lol/freyaii"
     }
 ]

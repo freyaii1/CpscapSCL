@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Cps Cap</div>
-                            <p>{{ level.cap || 'None (0)' }}</p>
+                            <p>{{ level.password || 'None (0)' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>

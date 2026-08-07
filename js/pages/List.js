@@ -110,6 +110,9 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
+                        When you complete a level if the cps capped alert doesn't appear your record will be invalidated
+                    </p>
+                    <p>
                         Your clicks must be audible they also must be source clicks (No edited clicks allowed)
                     </p>
                     <p>

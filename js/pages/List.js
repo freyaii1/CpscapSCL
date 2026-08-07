@@ -125,9 +125,6 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
                         Once a level falls onto the Legacy List, records can not be added to it anymore
                     </p>
                 </div>

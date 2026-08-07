@@ -119,7 +119,7 @@ export default {
                         You must show at least 1 attempt before the completion you cannot just show the completion straight away
                     </p>
                     <p>
-                        Completions must show the endscreen if the clip ends before the
+                        Completions must show the endscreen if the clip ends before the endscreen your completion will be invalidated
                     </p>
                     <p>
                         Do not use secret routes or bug routes

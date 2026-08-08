@@ -1,0 +1,19 @@
+{
+    "id": 140856375,
+    "fps": 240,
+    "name": "not hard r",
+    "author": "ywuchaos",
+    "creators": ["1"],
+    "verifier": "SodaVortex",
+    "verification": "https://youtu.be/WOnQa5JGPSk",
+    "percentToQualify": 100,
+    "cpscap": "15",
+    "records": [
+         {
+            "user": "exitygd",
+            "link": "https://medal.tv/games/geometry-dash/clips/nhtiPXPVlfelbMQbK?invite=cr-MSw4TkIsNTQ1OTc5NjQ4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

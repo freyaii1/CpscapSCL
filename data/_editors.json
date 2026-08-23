@@ -21,13 +21,14 @@
    
     },
     {
-        "role": "dev",
-        "name": "freyaii",
-        "link": "https://guns.lol/freyaii"
-    },
-    {
         "role": "admin",
         "name": "neokamori",
         "link": "https://www.youtube.com/@neokamori"
+    },
+    {
+        "role": "dev",
+        "name": "freyaii",
+        "link": "https://guns.lol/freyaii"
+    
     }
 ]

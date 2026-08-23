@@ -59,7 +59,7 @@ export default {
                             <p>{{ level.cpscap || 'None (0)' }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">ID</div>
+                            <div class="type-title-sm">Method</div>
                             <p>{{ level.method || 'Any' }}</p>
                         </li>
                         <li>

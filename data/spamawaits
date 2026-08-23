@@ -1,0 +1,14 @@
+{
+    "id": 66957467,
+    "fps": 240,
+    "name": "Spam Awaits",
+    "author": "SomeBaconGuy",
+    "creators": ["1"],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=nABaHHBCvks",
+    "percentToQualify": 100,
+    "cpscap": "15",
+    "method": "Alternating",
+    "records": [
+    ]
+}

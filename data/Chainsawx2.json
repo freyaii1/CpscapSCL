@@ -8,6 +8,7 @@
     "verification": "https://youtu.be/WOnQa5JGPSk",
     "percentToQualify": 100,
     "cpscap": "15",
+    "method": "Alternating",
     "records": [
     ]
 }

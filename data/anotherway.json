@@ -8,6 +8,7 @@
     "verification": "",
     "percentToQualify": 100,
     "cpscap": "16",
+    "method": "Alternating",
     "records": [
     ]
 }

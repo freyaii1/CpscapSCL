@@ -1,0 +1,14 @@
+{
+    "id": 115778083,
+    "fps": 480,
+    "name": "Foxtail 480",
+    "author": "ywuchaos",
+    "creators": ["1"],
+    "verifier": "ruby",
+    "verification": "https://ptb.discord.com/channels/1534967778480750632/1541742578163122288/1541742578163122288",
+    "percentToQualify": 100,
+    "cpscap": "15",
+    "method": "Alternating",
+    "records": [
+    ]
+}

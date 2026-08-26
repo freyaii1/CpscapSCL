@@ -10,11 +10,21 @@
     "cpscap": "15",
     "method": "Alternating",
     "records": [
-                {
+         {
             "user": "ruby",
             "link": "https://ptb.discord.com/channels/1534967778480750632/1541755245355606128/1541755245355606128",
             "percent": 100,
             "hz": "CBF"
-        }
-    ]
-}
+          },
+         {
+            "user": "exitygd",
+            "link": "https://medal.tv/games/geometry-dash/clips/no2IttVlI7rJlcjE-?invite=cr-MSx4QUwsNTQ1OTc5NjQ4",
+            "percent": 100,
+            "hz": "CBF"
+         }
+     ]  
+ }
+ 
+     
+           
+

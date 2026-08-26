@@ -21,10 +21,16 @@
             "link": "https://medal.tv/games/geometry-dash/clip/nhKaeUiIEsbJTEQWz?invite=cr-MSx4d2osNTQ1OTc5NjQ4",
             "percent": 100,
             "hz": 60   
-        },
-         {
+         },
+        {
             "user": "nickname",
             "link": "https://www.youtube.com/watch?v=eW6PV06BIDc",
+            "percent": 100,
+            "hz": 60
+         },
+        { 
+            "user": "xed",
+            "link": "https://medal.tv/games/screen-capture/clips/noOnPx8Jtmhr1K7Dc?invite=cr-MSxmd1UsNDI2OTQ3NzUx",
             "percent": 100,
             "hz": 60
          }

@@ -10,5 +10,11 @@
     "cpscap": "15",
     "method": "Alternating",
     "records": [
+        { 
+            "user": "xed",
+            "link": "https://medal.tv/games/screen-capture/clips/noP4sLQ3Q7b2C-dHg?invite=cr-MSxVMUQsNDI2OTQ3NzUx",
+            "percent": 100,
+            "hz": 240
+         }
     ]
 }

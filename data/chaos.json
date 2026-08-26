@@ -1,0 +1,14 @@
+{
+    "id": 116316588,
+    "fps": 60,
+    "name": "CHAOS",
+    "author": "Aelzfr",
+    "creators": ["1"],
+    "verifier": "nickname",
+    "verification": "https://www.youtube.com/watch?v=4DL7iik2BzU",
+    "percentToQualify": 100,
+    "cpscap": "15",
+    "method": "Alternating",
+    "records": [
+    ]
+}

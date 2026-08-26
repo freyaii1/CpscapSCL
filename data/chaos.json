@@ -10,5 +10,11 @@
     "cpscap": "15",
     "method": "Alternating",
     "records": [
+        {
+            "user": "ruby",
+            "link": "https://ptb.discord.com/channels/1534967778480750632/1542071842918113320/1542071842918113320",
+            "percent": 100,
+            "hz": "60"
+        }
     ]
 }

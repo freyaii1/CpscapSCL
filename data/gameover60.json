@@ -10,5 +10,11 @@
     "cpscap": "15",
     "method": "Alternating",
     "records": [
+    {
+            "user": "nickname",
+            "link": "https://www.youtube.com/watch?v=4DL7iik2BzU",
+            "percent": 100,
+            "hz": 60   
+        }
     ]
 }

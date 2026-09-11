@@ -1,0 +1,14 @@
+{
+    "id": 123365284,
+    "fps": 60,
+    "name": "Game over (60)",
+    "author": "Liknod",
+    "creators": ["1"],
+    "verifier": "CoffeeChips",
+    "verification": "https://www.youtube.com/watch?v=KWHujVOFDjo",
+    "percentToQualify": 100,
+    "cpscap": "15",
+    "method": "Alternating",
+    "records": [
+       ]
+     }

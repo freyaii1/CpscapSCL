@@ -10,8 +10,7 @@
     "cpscap": "15",
     "method": "Alternating",
     "records": [
-    ]
-       }
+        {
          "user": "sixstix",
          "link": "https://discord.com/channels/1534967778480750632/1544641099929489408/1544641099929489408",
          "percent": 100,
@@ -19,3 +18,4 @@
         }
     ]
 }
+

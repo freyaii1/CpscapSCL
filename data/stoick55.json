@@ -1,6 +1,6 @@
 {
     "id": 139871240,
-    "fps": 139871240,
+    "fps": 66.67,
     "name": "Stoicism k55",
     "author": "PureL",
     "creators": ["PureL"],
@@ -11,10 +11,10 @@
     "method": "Alternating",
     "records": [
                 {
-                "user": "F1erzza",
-                "link": "https://youtu.be/P4O_derbv0k?si=XlEczdarjhKaRoB9"
-                "percent": 100,
-                "hz": 16.67
-             }
-        ]
-   }
+            "user": "F1erzza",
+            "link": "https://youtu.be/P4O_derbv0k?si=XlEczdarjhKaRoB9",
+            "percent": 100,
+            "hz": 66.67
+        }
+    ]
+}

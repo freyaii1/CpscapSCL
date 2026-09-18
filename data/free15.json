@@ -1,0 +1,14 @@
+{
+    "id": 98121986,
+    "fps": 60,
+    "name": "free15cpsifshared",
+    "author": "pastelliano",
+    "creators": ["pastelliano"],
+    "verifier": "ruby",
+    "verification": "https://youtu.be/SrZVEL9JtaQ?si=YyEcXG2N8W_FSGEK",
+    "percentToQualify": 100,
+    "cpscap": "15",
+    "method": "Alternating",
+    "records": [
+    ]
+} 

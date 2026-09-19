@@ -10,5 +10,12 @@
     "cpscap": "15",
     "method": "Alternating",
     "records": [
-    ]
-}
+           {
+               "user": "ruby",
+            "link": "https://medal.tv/games/geometry-dash/clips/nw8NPv1eRgWVUJXw3?invite=cr-MSxhTG8sNzcxMTgzNzQ1",
+            "percent": 100,
+            "hz": 0
+           }
+      ]
+  }
+

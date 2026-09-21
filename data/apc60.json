@@ -10,5 +10,11 @@
     "cpscap": "15",
     "method": "Alternating",
     "records": [
+        {
+            "user": "lololowka",
+            "link": "https://youtu.be/06de24NHTFw",
+            "percent": 100,
+            "hz": 60
+        }
     ]
-} 
+}

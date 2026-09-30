@@ -10,12 +10,11 @@
     "cpscap": "15",
     "method": "Alternating",
     "records": [
-    ]
-    {
+                {
     "user": "tung",
             "link": "https://discord.com/channels/1534967778480750632/1553626310868467742/1553626310868467742",
             "percent": 100,
-            "hz": 60 
-         }
-     ]
+            "hz": 60
+                }
+        ]
 }

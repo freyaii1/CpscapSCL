@@ -4,19 +4,13 @@
     "name": "Chained To Rhytm (60)",
     "author": "babseed",
     "creators": ["1"],
-    "verifier": "kyro",
+    "verifier": "ruby",
     "verification": "https://youtu.be/Sc_n7e35Fs4",
     "percentToQualify": 100,
     "cpscap": "15",
     "method": "Alternating",
     "records": [
            {
-               "user": "ruby",
-            "link": "https://medal.tv/games/geometry-dash/clips/nw8NPv1eRgWVUJXw3?invite=cr-MSxhTG8sNzcxMTgzNzQ1",
-            "percent": 100,
-            "hz": 60
-         },
-         {
             "user": "lololowka",
             "link": "https://youtu.be/06de24NHTFw",
             "percent": 100,

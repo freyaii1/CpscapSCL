@@ -4,18 +4,11 @@
     "name": "N O M A D",
     "author": "Depry1",
     "creators": ["1"],
-    "verifier": "kyro",
-    "verification": "https://youtu.be/_z38W-GaEVc",
+    "verifier": "sixstix",
+    "verification": "https://discord.com/channels/1534967778480750632/1544641099929489408/1544641099929489408",
     "percentToQualify": 100,
     "cpscap": "15",
     "method": "Alternating",
     "records": [
-        {
-         "user": "sixstix",
-         "link": "https://discord.com/channels/1534967778480750632/1544641099929489408/1544641099929489408",
-         "percent": 100,
-         "hz": 60
-        }
     ]
 }
-

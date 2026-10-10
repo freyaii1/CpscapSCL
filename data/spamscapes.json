@@ -4,17 +4,11 @@
     "name": "spamscapes",
     "author": "nNeokamori",
     "creators": ["1"],
-    "verifier": "kyro",
+    "verifier": "ruby",
     "verification": "https://www.youtube.com/watch?v=0mgRlDHQJ6E",
     "percentToQualify": 100,
     "cpscap": "15",
     "method": "Alternating",
     "records": [
-                {
-            "user": "ruby",
-            "link": "https://medal.tv/games/geometry-dash/clips/nteEo6dndfII6-e26",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }

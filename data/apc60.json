@@ -4,17 +4,11 @@
     "name": "apple cider (60)",
     "author": "squeeggd",
     "creators": ["squeeggd"],
-    "verifier": "kyro",
-    "verification": "https://youtu.be/Sc_n7e35Fs4",
+    "verifier": "lololowka",
+    "verification": "https://youtu.be/06de24NHTFw",
     "percentToQualify": 100,
     "cpscap": "15",
     "method": "Alternating",
     "records": [
-        {
-            "user": "lololowka",
-            "link": "https://youtu.be/06de24NHTFw",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
